@@ -1,6 +1,0 @@
-#org.jbehave.core.embedder.StoryManager
-#Thu Jul 02 21:13:40 EEST 2015
-threads=1
-total=0
-com/bionic/stories/consult_dictionary/LookupADefinition.story=0
-threadAverage=0
